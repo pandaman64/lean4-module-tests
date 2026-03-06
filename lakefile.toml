@@ -1,0 +1,10 @@
+name = "allow-import-all-test"
+version = "0.1.0"
+defaultTargets = ["module-tests"]
+
+[[lean_lib]]
+name = "ModuleTests"
+
+[[lean_exe]]
+name = "module-tests"
+root = "Main"
