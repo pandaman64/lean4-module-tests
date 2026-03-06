@@ -1,1 +1,1 @@
-# allow-import-all-test
+# Lean 4 module tests
